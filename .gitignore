@@ -205,3 +205,8 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# 내 로컬 테스트 파일 제외
+input.txt
+output.txt
+.DS_Store
